@@ -1,0 +1,1 @@
+React + Vite skeleton for Inbox Unificada UI. Run `npm install` then `npm run dev`.
